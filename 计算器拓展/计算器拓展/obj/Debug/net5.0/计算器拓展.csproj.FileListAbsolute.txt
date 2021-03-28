@@ -1,0 +1,16 @@
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\计算器拓展.exe
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\计算器拓展.deps.json
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\计算器拓展.runtimeconfig.json
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\计算器拓展.runtimeconfig.dev.json
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\计算器拓展.dll
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\ref\计算器拓展.dll
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\bin\Debug\net5.0\计算器拓展.pdb
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.csprojAssemblyReference.cache
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.GeneratedMSBuildEditorConfig.editorconfig
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.AssemblyInfoInputs.cache
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.AssemblyInfo.cs
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.csproj.CoreCompileInputs.cache
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.dll
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\ref\计算器拓展.dll
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.pdb
+E:\桌面\宇宙超级无敌最聪明小柒\作业\C#\after class\计算器拓展\计算器拓展\obj\Debug\net5.0\计算器拓展.genruntimeconfig.cache
